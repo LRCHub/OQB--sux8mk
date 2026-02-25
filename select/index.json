@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夕恋",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-02-25T11:55:01.348571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕恋",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_夕恋_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕恋",
+      "artist": "Indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_夕恋_Indigo_la_End.txt"
+    }
+  ]
+}
